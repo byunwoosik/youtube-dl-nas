@@ -15,7 +15,7 @@ class WSAddr:
 
 app = Bottle()
 
-port = 8080
+port = 8088
 proxy = ""
 
 @get('/')
